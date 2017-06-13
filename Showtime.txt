@@ -1,0 +1,31 @@
+1. admin login panel
+
+2. add movie details form
+
+3. successful entry message
+
+Admin:
+userid
+password
+name
+contact
+email
+
+/*User:
+Name
+email
+phone number
+password
+*/
+
+movie details:
+movie name
+poster
+trailer
+runtime (length)
+languages
+format (2d,3d)
+user rating, critic rating
+	rate movie button
+synopsis
+lead cast
